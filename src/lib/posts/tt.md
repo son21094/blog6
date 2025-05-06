@@ -11,6 +11,7 @@ coverWidth: 16
 coverHeight: 9
 excerpt: This post demonstrates how to include a Svelte component in a Markdown post.
 ---
+
 # BÁO CÁO TÌM HIỂU – HỆ THỐNG PHÂN TÁN, ĐA TIẾN TRÌNH, ĐA LUỒNG
 
 ## **1. Kiểm tra CPU, GPU, RAM và phân tích hiệu năng máy tính**
