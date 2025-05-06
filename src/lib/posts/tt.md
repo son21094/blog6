@@ -1,7 +1,15 @@
 ---
-title: "TT và luồng"
-slug: "tt"
-date: "2025-05-05"
+title: "Blog"
+date: "2025-29-28"
+updated: "2023-04-28"
+categories:
+  - "sveltekit"
+  - "markdown"
+  - "svelte"
+coverImage: "/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg"
+coverWidth: 16
+coverHeight: 9
+excerpt: This post demonstrates how to include a Svelte component in a Markdown post.
 ---
 # BÁO CÁO TÌM HIỂU – HỆ THỐNG PHÂN TÁN, ĐA TIẾN TRÌNH, ĐA LUỒNG
 
