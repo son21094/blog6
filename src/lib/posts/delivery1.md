@@ -1,3 +1,16 @@
+---
+title: "Delivery1"
+date: "2025-29-28"
+updated: "2023-04-28"
+categories:
+  - "sveltekit"
+  - "markdown"
+  - "svelte"
+coverImage: "/images/jerry-zhang-ePpaQC2c1xA-unsplash.jpg"
+coverWidth: 16
+coverHeight: 9
+excerpt: This post demonstrates how to include a Svelte component in a Markdown post.
+---
 # 📘 Báo cáo tìm hiểu thư viện: ScyllaDB
 
 ## 1. Mục đích của thư viện
